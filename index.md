@@ -1,4 +1,4 @@
-### shayne@shaynes.website
+shayne@shaynes.website
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
