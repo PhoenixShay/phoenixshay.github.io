@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: shayne's website
-description: []
+description:
 show_downloads: false
 github:
   is_user_page: false
