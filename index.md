@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+### shayne@shaynes.website
 
-You can use the [editor on GitHub](https://github.com/PhoenixShay/phoenixshay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.63
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PhoenixShay/phoenixshay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+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
+hI5xI1mB67oe8Xv6KzlKtf0O
+=vOJy
+-----END PGP PUBLIC KEY BLOCK-----
+```
