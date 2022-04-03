@@ -3,6 +3,8 @@ hello
 contact: shayne@shaynes.website
 
 ## past projects
+### [phantom forces](https://www.roblox.com/games/292439477/Phantom-Forces)
+backend web programming (nodejs) for first-person shooter game with 10k+ daily active users (1.2b+ visits); over 2tb+ of data stored. also made minor contributions to game programming; as well as leading game moderation team
 ### [rover](https://rover.link) [(github)](https://github.com/evaera/rover)
 systems administration & upkeep of 140k+ server discord bot. still active maintainer
 ### santosrp
