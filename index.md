@@ -5,14 +5,16 @@ contact: shayne@shaynes.website
 ## past projects
 ### [phantom forces](https://www.roblox.com/games/292439477/Phantom-Forces)
 backend web programming (nodejs) for first-person shooter game with avg 15k+ hourly active users (1.2b+ visits); over 2tb+ of data stored. also made minor contributions to game programming; as well as leading game moderation team
+### [realistic boiling water reactor simulator](https://www.roblox.com/games/11765852158/Realistic-Boiling-Water-Reactor-Simulator)
+gameplay programming of a psuedo-realistic nuclear reactor simulation; reworking core diffusion/reactor simulation functionality, pid controllers, etc; responsible for 15x script performance improvement
 ### [rover](https://rover.link) [(github)](https://github.com/evaera/rover)
 systems administration & upkeep of 140k+ server discord bot. still active maintainer
-### santosrp
-game development (lua) and backend development for private garry's mod community
 ### [scp: unity](https://scp-unity.com)
 full stack development
 ### [scriptinghelpers](https://scriptinghelpers.org)
 full stack development
+### santosrp
+game development (lua) and backend development for private garry's mod community
 
 &nbsp;&nbsp;
 
